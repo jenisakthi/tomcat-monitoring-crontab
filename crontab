@@ -1,0 +1,1 @@
+*/2 * * * *   /root/monitoring.sh >> /root/monitoring.log
